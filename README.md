@@ -4,7 +4,7 @@ This project analyzes Air Quality Index (AQI) data across major Indian cities an
 
 The system processes AQI datasets, performs basic statistical analysis, and generates interactive heatmaps and location-based insights to highlight areas with poor air quality.
 
-Example Output = <br>
+Example Output - <br>
 The visualization below shows pollution intensity across Indian cities, where red regions represent higher AQI levels and green regions represent relatively cleaner air.
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 030014" src="https://github.com/user-attachments/assets/80e2c087-9c85-4bf6-ba50-bc2304b602ca" />
